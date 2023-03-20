@@ -1,0 +1,20 @@
+.redpink {
+    background-color: rgb(255, 0, 98);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: #2400ee;
+    font-size: 36px;
+}
+
+.redpink.bigger {
+    font-size: 24px;
+}
+
+#lightgreen {
+    background-color: #00ee77;
+    font-size: 24px;
+    font-weight: bold;
+
+}
